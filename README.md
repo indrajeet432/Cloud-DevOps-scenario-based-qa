@@ -65,10 +65,6 @@ We also built a **companion website** so you can browse the same material in a b
 - 🔖 Bookmarks for last-minute review
 - 🌙 Dark & light themes, no ads, no tracking
 
-**Live site:** [techikrish.github.io/devops-cloud-interview-scenarios](https://techikrish.github.io/devops-cloud-interview-scenarios/)
-
-![DevOps interview scenario Q&A — web landing (dark theme)](./assets/website-screenshot.png)
-
 ### Android app (offline)
 
 After that, we shipped an **Android app** that packages the same scenario Q&A for **fully offline** use—no network required, so it is **ready to go** whenever you have a few minutes (commute, break room, or right before the interview).
@@ -80,10 +76,6 @@ After that, we shipped an **Android app** that packages the same scenario Q&A fo
 - 🗂️ **11 domains** — Kubernetes, AWS, Terraform, CI/CD, Docker, Linux/SRE, Observability, Networking, Security, Git, and more
 - 🔖 Bookmarks for last-minute review
 - 🌙 Dark mode, no ads, no tracking, **100% offline**
-
-**Get it on Google Play:** [DevOps & Cloud Interview Hub](https://play.google.com/store/apps/details?id=com.techikrish.devopsinterviewhub&hl=en_IN)
-
-![DevOps interview scenario Q&A — Android app home](./assets/android-app-screenshot.png)
 
 ---
 
@@ -165,14 +157,6 @@ This repository is licensed under the MIT License. See [LICENSE](./LICENSE) for 
 This repo is maintained by the community. Every scenario, improvement, and contribution comes from real DevOps and Cloud engineers preparing for interviews or helping others succeed.
 
 **Maintained by the community. PRs and contributions welcome.** 💙
-
----
-
-## 📞 Questions or Feedback?
-
-- **Found an error?** Open an [Issue](https://github.com/techikrish/devops-cloud-interview-scenarios/issues).
-- **Want to discuss something?** Start a [Discussion](https://github.com/techikrish/devops-cloud-interview-scenarios/discussions).
-- **Have scenarios to contribute?** See [CONTRIBUTING.md](./CONTRIBUTING.md) and open a PR.
 
 ---
 
